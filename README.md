@@ -6,13 +6,13 @@ This repository contains the implementation of a simple Battleship game using Ja
 
 ## Features
 Interactive User Interface: Display messages, hits, and misses on the game board.
-## Random Ship Placement: 
+**Random Ship Placement: **
 
 Ships are randomly placed on the board at the start of the game.
-## Real-Time Feedback:
+**Real-Time Feedback:**
 
 Immediate feedback on hits, misses, and sunk ships.
-## User Input Handling:
+**User Input Handling:**
 
 Handle user guesses through button clicks and key presses.
 
@@ -23,8 +23,5 @@ The game will display whether you hit or missed a ship.
 Keep guessing until all ships are sunk.
 The game will display the number of guesses it took to sink all the ships.
 
-# Installation and Usage
-**Clone the repository:** git clone https://github.com/yourusername/battleship-game.git
-Open index.html in your preferred web browser to start the game.
 ## Contributing
 Feel free to fork this repository and make improvements. Pull requests are welcome.
